@@ -1,2 +1,2 @@
 # IntroToGitHub
-A demo to how to use GitHub
+A demo on how to use GitHub
